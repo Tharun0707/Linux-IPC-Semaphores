@@ -1,8 +1,9 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-### NAME : THARUN SRIDHAR
-### REGISTER NO : 212223230230
+**NAME : THARUN SRIDHAR**
+
+**REGISTER NO : 212223230230**
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
